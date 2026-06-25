@@ -1,0 +1,29 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "3D Text Prompt",
+  "Description": "Runtime 3D text prompt actor with per-character pop and jump animation for Unreal Engine 5.",
+  "Category": "UI",
+  "CreatedBy": "chihchen",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "ThreeDTextPrompt",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "Text3D",
+      "Enabled": true
+    }
+  ]
+}
